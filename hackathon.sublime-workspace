@@ -1,0 +1,2757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"mousedown"
+			],
+			[
+				"ana",
+				"analyze_data"
+			],
+			[
+				"analy",
+				"analyze_json"
+			],
+			[
+				"echo",
+				"echo_key"
+			],
+			[
+				"anay",
+				"analysisURL"
+			],
+			[
+				"playe",
+				"playSliceQueue"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"analyze",
+				"analyze_json"
+			],
+			[
+				"timeout",
+				"timeout_id"
+			],
+			[
+				"audio",
+				"audio"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"au",
+				"audio"
+			],
+			[
+				"source",
+				"source_el"
+			],
+			[
+				"auio",
+				"audio_el"
+			],
+			[
+				"so",
+				"song_url"
+			],
+			[
+				"ech",
+				"echo_id"
+			],
+			[
+				"echo_",
+				"echo_id"
+			],
+			[
+				"sound",
+				"sound_url"
+			],
+			[
+				"ec",
+				"echoKey"
+			],
+			[
+				"sund",
+				"sound_search_url"
+			],
+			[
+				"slic",
+				"slice_duration"
+			],
+			[
+				"test",
+				"testVars"
+			],
+			[
+				"strict",
+				"strictEqual"
+			],
+			[
+				"nora",
+				"normalize"
+			],
+			[
+				"fe",
+				"fe	foreach, fast - readable"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"__",
+				"_valda_"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"acces",
+				"access-color"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"back",
+				"back-col"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-color"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"cusomize",
+				"customize_screen"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-right-radius"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"Connec",
+				"ConnectScreenView"
+			],
+			[
+				"Connect",
+				"ConnectScreen"
+			],
+			[
+				"text",
+				"textChange"
+			],
+			[
+				"active_sc",
+				"active_screen"
+			],
+			[
+				"create",
+				"createView"
+			],
+			[
+				"Crea",
+				"CreateScreenView"
+			],
+			[
+				"Create",
+				"CreateScreen"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"menuV",
+				"menuView"
+			],
+			[
+				"default",
+				"defaultAction"
+			],
+			[
+				"menu",
+				"menuView"
+			],
+			[
+				"progress",
+				"progressUpdate"
+			],
+			[
+				"progre",
+				"progressUpdate"
+			],
+			[
+				"LoadScre",
+				"LoadScreenView"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"append",
+				"appendItem"
+			],
+			[
+				"comp",
+				"complied"
+			],
+			[
+				"uint8_",
+				"uint8_wave_array"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"declarationHas",
+				"declarationHasPropertyAndValue(dec, prop, val)	prefixr.js"
+			],
+			[
+				"strin",
+				"stringify(thing)	app.js"
+			],
+			[
+				"trans",
+				"translateZ"
+			],
+			[
+				"ELEM",
+				"ELEMENT_NODE"
+			],
+			[
+				"sce",
+				"scheduleNote"
+			],
+			[
+				"active_col",
+				"active_column"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"cur",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"6",
+				"6C"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ke",
+				"keylistener"
+			],
+			[
+				"sp",
+				"sphere_index"
+			],
+			[
+				"spher",
+				"sphere_index"
+			],
+			[
+				"spaw",
+				"spawn_timer_max"
+			],
+			[
+				"spawn",
+				"spawn_timer"
+			],
+			[
+				"normal",
+				"normalize"
+			],
+			[
+				"Phys",
+				"PhysicsScene"
+			],
+			[
+				"quat",
+				"quaternion"
+			],
+			[
+				"acti",
+				"activate"
+			],
+			[
+				"update",
+				"updatecamera"
+			],
+			[
+				"cam",
+				"camera_up"
+			],
+			[
+				"camera",
+				"camera_lookat"
+			],
+			[
+				"from",
+				"fromValues"
+			],
+			[
+				"num",
+				"num_balls"
+			],
+			[
+				"sphere",
+				"spheres"
+			],
+			[
+				"triang",
+				"triangles_element"
+			],
+			[
+				"nu",
+				"num_balls"
+			],
+			[
+				"stat",
+				"stats_element"
+			],
+			[
+				"upda",
+				"update_stats_count_max"
+			],
+			[
+				"updat",
+				"update_stats_count"
+			],
+			[
+				"uni",
+				"Uniforms"
+			],
+			[
+				"unifo",
+				"uniforms"
+			],
+			[
+				"mod",
+				"model_active_count_max"
+			],
+			[
+				"model",
+				"model_active_count"
+			],
+			[
+				"a_",
+				"a_normal"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"ver",
+				"vertexBuffer"
+			],
+			[
+				"vertexB",
+				"vertexBuffer"
+			],
+			[
+				"vertex",
+				"vertexIndex"
+			],
+			[
+				"activa",
+				"activate"
+			],
+			[
+				"rot",
+				"rotation_speed"
+			],
+			[
+				"afte",
+				"after_time"
+			],
+			[
+				"cans",
+				"canvas"
+			],
+			[
+				"clear",
+				"clearColor"
+			],
+			[
+				"event",
+				"eventListener"
+			],
+			[
+				"canva",
+				"canvas"
+			],
+			[
+				"even",
+				"eventListener"
+			],
+			[
+				"canvas",
+				"canvas_id"
+			],
+			[
+				"reqe",
+				"requestAnimationFrame"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"ca",
+				"camera_types"
+			],
+			[
+				"load",
+				"loader"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"aut",
+				"auto_speed"
+			],
+			[
+				"light",
+				"lightFolder"
+			],
+			[
+				"curre",
+				"current_effect"
+			],
+			[
+				"simp",
+				"skybox_simpsons"
+			],
+			[
+				"te",
+				"tech_str"
+			],
+			[
+				"tech",
+				"techniques"
+			],
+			[
+				"fps_hist",
+				"fps_history_average"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 9540,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Hektor/Dropbox/Webb/echonest.md",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Hektor/Dropbox/Webb/MusicMaking/main.js",
+			"settings":
+			{
+				"buffer_size": 12493,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"selected_items":
+		[
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Diff Tool All"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl ",
+				"Package Control: Enable Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa e",
+				"Package Control: Enable Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"discove",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"synta les",
+				"Set Syntax: LESS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"enabk",
+				"Package Control: Enable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"les",
+				"Set Syntax: LESS"
+			],
+			[
+				"setting user",
+				"Preferences: Settings - User"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"dif",
+				"Sublimerge: View Diff"
+			],
+			[
+				"toggl me",
+				"View: Toggle Menu"
+			],
+			[
+				"colorp",
+				"Color picker"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ope",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"syn open",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"snippet",
+				"Snippet: Meta data"
+			],
+			[
+				"snippet ",
+				"Snippet: Class"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"a",
+				"Project: Add Folder"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"togg men",
+				"View: Toggle Menu"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"tog men",
+				"View: Toggle Menu"
+			],
+			[
+				"synta p",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"synta mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"emmet",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"emme",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"defau",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"syntax plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pac list",
+				"Package Control: List Packages"
+			],
+			[
+				"Set s mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"plain ",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"file mo",
+				"File: Move"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"files",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"file",
+				"Nodejs::User File Settings"
+			],
+			[
+				"Snippet",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"Snippet: for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settins",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paga",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hektor/Dropbox/Webb/Hackathon/remix.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/keyboard.js",
+		"/C/Users/Hektor/Dropbox/Webb/DOM/src/HeQuery.js",
+		"/C/Users/Hektor/Dropbox/Webb/DOM/src/HeQuery.css",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/test/all.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/src/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/.jshintrc",
+		"/C/Users/Hektor/Dropbox/Webb/echonest.md",
+		"/C/Users/Hektor/Dropbox/Webb/hemsida_innehåll.md",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/todo.md",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/README.md",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/main.js",
+		"/C/Users/Hektor/Dropbox/CV/LBi/skiss.md",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/old/README.md",
+		"/C/Users/Hektor/Spotify/apps-tutorial/manifest.json",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/LICENSE",
+		"/C/Users/Hektor/Dropbox/Webb/Linkpage/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/test/models/cube.obj",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/README.md",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/README.md.orig",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/test/all.html",
+		"/C/Users/Hektor/Dropbox/Webb/Kandidat/models/cube.obj",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/Gruntfile.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/loader.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/model.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/util.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/src/_intro.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/.editorconfig",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/jquery-1.8.3.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/package.json",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/LICENSE.txt",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/src/_outro.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/docs/MAIN.md",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/demo/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/demo/assets/normalize.css",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/demo/assets/main.css",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/dist/ObjLoader.min.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/dist/ObjLoader.js",
+		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/.gitignore",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/app/scripts/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/app/scripts/app.js",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/app/styles/main.scss",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/Gruntfile.js",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/app/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/app/styles/alt.scss",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/.jshintrc",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/app/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/production/js/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Backbone/app/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Backbone/app/styles/main.scss",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Webapp/bower.json",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/app/styles/main.scss",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/app/robots.txt",
+		"/C/Users/Hektor/Dropbox/Webb/Yeoman/Gruntfile.js",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/MusicMaking/polyfill.js",
+		"/C/Users/Hektor/Dropbox/Webb/Morse/.gitignore",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/v2/style.css",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/v2/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/v2/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/v2/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Regex/js/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/jquery-2.0.3.min.js",
+		"/C/Users/Hektor/Dropbox/Webb/Helen/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/Helen/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/Helen/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Less-watch/lessflow.js",
+		"/C/Users/Hektor/Dropbox/Webb/Less-watch/prefixr.js",
+		"/C/Users/Hektor/Dropbox/Webb/Linkpage/main.js",
+		"/C/Users/Hektor/Desktop/zipfsong.py",
+		"/C/Users/Hektor/Desktop/reversebinary.py",
+		"/C/Users/Hektor/Desktop/lbi.md",
+		"/C/Users/Hektor/Desktop/catvsdog.py",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/anteckningar.md",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/game.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/network.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/main.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/lobbyscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/boardselection.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/screen.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Boxes/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/creatorsscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/customizescreen.dust",
+		"/C/Users/Hektor/Dropbox/Skola/labbhandledning_datastrukturer.txt",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/menuscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/lobbyplayer.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/racer.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/server.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/player.js",
+		"/C/Users/Hektor/Dropbox/Webb/Racetrack/client/js/screen.js",
+		"/C/Users/Hektor/Dropbox/Webb/Racetrack/client/js/server.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/connectscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/gamescreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/js/backbonescreens.js",
+		"/C/Users/Hektor/Dropbox/Webb/RacetrackRevamp/client/dust/compiled.dust.js",
+		"/C/Users/Hektor/Dropbox/Webb/Less-watch/package.json",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/loading.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/createscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/player.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/gamescreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/menu.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/connectscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/style.less",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Racetrack/client/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/Racetrack/index.php",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/dust-watch.js",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/dust_templates/compiled.dust.js",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/style.css",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/backbone.js",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/player.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/menu.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/loading.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/createscreen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/index.html",
+		"/C/Users/Hektor/Dropbox/Webb/menu.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/template.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/compiled.dust.js",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/menu_screen.dust",
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/compiler.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/underscore.js",
+		"/C/Users/Hektor/Dropbox/Webb/Dust/template.dust"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Hektor\\Dropbox\\Webb\\kandidat\\js",
+			"C:\\Users\\Hektor\\Dropbox\\Webb\\webgl\\Models",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x",
+			"down",
+			"roundedRectFill",
+			"draw",
+			"width",
+			"analizeDataReceived",
+			"h1",
+			"div",
+			"i",
+			"sound",
+			"start",
+			"bars",
+			"fetchAna",
+			"fetchA",
+			"gotID",
+			"Remix",
+			"remix",
+			"''",
+			"intervals",
+			"time",
+			"sound",
+			"normals",
+			"vertices",
+			"with",
+			"Model",
+			"model",
+			"url",
+			"null,",
+			"null",
+			"tangents",
+			"vertices",
+			"gl.",
+			"(e)",
+			"e",
+			"noConflict",
+			"$ = ",
+			"util.",
+			"auto",
+			"5",
+			"watch",
+			"20px",
+			"length",
+			"note",
+			"playNote",
+			"noteOn",
+			"o",
+			":",
+			"li",
+			"content",
+			"<section id",
+			"&",
+			"class=\"page",
+			"header",
+			"logo",
+			"logo_height",
+			".",
+			"accessbars",
+			".",
+			"</section>",
+			"0",
+			"E",
+			"/HelenGsonWallin/res/",
+			"span",
+			"song",
+			"rev",
+			"reverse",
+			"s",
+			"songindex",
+			"hover",
+			"2",
+			"CustomizeScreen",
+			"scren",
+			"screen = ",
+			"customize",
+			"connect",
+			"// this.",
+			"(this.",
+			"destination",
+			"screen",
+			"// destination",
+			"Classy",
+			",",
+			"setPlayerElementColor",
+			"color",
+			"green",
+			"gren",
+			"screen",
+			".attr",
+			"type",
+			"ue,",
+			"target.value",
+			"his.",
+			"Change:",
+			"Change",
+			"this.screen",
+			"displayPlayerElement",
+			"destination =",
+			"this.s",
+			"case",
+			"this.screen",
+			"this.sreen",
+			"connect",
+			"self",
+			"this",
+			"handler",
+			"Lobby",
+			"screen",
+			"get",
+			"et()",
+			"menu",
+			"Customize",
+			"00",
+			"10",
+			"textChange",
+			"remove",
+			"g3",
+			"div",
+			"this",
+			"start",
+			"menu",
+			"swap",
+			"bind",
+			"name",
+			"onhash",
+			"id",
+			"p",
+			"P",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"player",
+			"player.rigid",
+			"",
+			"ct.programs['simple']",
+			"content.te",
+			"content.mo",
+			"content.textures",
+			"content.images",
+			"content.models",
+			"gl",
+			"gl\ngl",
+			"already",
+			"slurp_replace_string",
+			"\"",
+			"this",
+			"vertexBuffer",
+			"a_position",
+			"program",
+			"cornerBuffer",
+			"player_ids",
+			"current_screen_name",
+			"colorShaderProgram",
+			"$themefile",
+			"$wishfile",
+			"text_color",
+			"stitch_color",
+			"span",
+			"link"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 9540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3259,
+								3259
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1564.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Hektor/Dropbox/Webb/echonest.md",
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								31
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Hektor/Dropbox/Webb/MusicMaking/main.js",
+					"settings":
+					{
+						"buffer_size": 12493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9233,
+								8769
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5072.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"remix",
+				"Hackathon/remix.js"
+			],
+			[
+				"linkpag",
+				"Linkpage/index.html"
+			],
+			[
+				"objloaread",
+				"ObjLoader/README.md"
+			],
+			[
+				"javaload",
+				"javascript/loader.js"
+			],
+			[
+				"javamodel",
+				"javascript/model.js"
+			],
+			[
+				"yeomanbackboindex",
+				"Yeoman/Backbone/app/index.html"
+			],
+			[
+				"stylesscs",
+				"Yeoman/app/styles/main.scss"
+			],
+			[
+				"heleproman",
+				"HelenGsonWallin/production/js/main.js"
+			],
+			[
+				"yeomaninde",
+				"Yeoman/app/index.html"
+			],
+			[
+				"polyfi",
+				"MusicMaking/polyfill.js"
+			],
+			[
+				"style.",
+				"Morse/style.less"
+			],
+			[
+				"morsegi",
+				"Morse/.gitignore"
+			],
+			[
+				"morse",
+				"Morse/index.html"
+			],
+			[
+				"regex",
+				"Regex/js/main.js"
+			],
+			[
+				"prefi",
+				"Less-watch/prefixr.js"
+			],
+			[
+				"lessfl",
+				"Less-watch/lessflow.js"
+			],
+			[
+				"linkpagejs",
+				"Linkpage/main.js"
+			],
+			[
+				"linkpaginde",
+				"Linkpage/index.html"
+			],
+			[
+				"sty",
+				"Boxes/style.less"
+			],
+			[
+				"packag",
+				"Less-watch/package.json"
+			],
+			[
+				"racetracrevem",
+				"RacetrackRevamp/client/js/main.js"
+			],
+			[
+				"back",
+				"javascript/backbone.js"
+			],
+			[
+				"dustwa",
+				"Lab/Dust/dust-watch.js"
+			],
+			[
+				"dustinde",
+				"Lab/Dust/index.html"
+			],
+			[
+				"dust",
+				"Lab/Dust/template.dust"
+			],
+			[
+				"zep",
+				"javascript/zepto.js"
+			],
+			[
+				"less",
+				"Less-watch/lessflow.js"
+			],
+			[
+				"pref",
+				"Less-watch/prefixr.js"
+			],
+			[
+				"prefix",
+				"Less-watch/prefixr.js"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"classy",
+				"Classy/src/classy.js"
+			],
+			[
+				"gameof",
+				"GameOfLife/main.js"
+			],
+			[
+				"webglcube",
+				"WebGL/Shaders/effect_webcam_cube.js"
+			],
+			[
+				"heque",
+				"DOM/src/HeQuery.js"
+			],
+			[
+				"gameofl",
+				"GameOfLife/main.js"
+			],
+			[
+				"linkmain",
+				"Linkpage/main.js"
+			],
+			[
+				"linkindex",
+				"Linkpage/index.html"
+			],
+			[
+				"musicsty",
+				"MusicMaking/style.css"
+			],
+			[
+				"heq",
+				"DOM/src/HeQuery.js"
+			],
+			[
+				"usicjs",
+				"MusicMaking/main.js"
+			],
+			[
+				"musicmakstyle",
+				"MusicMaking/style.css"
+			],
+			[
+				"linkjs",
+				"Linkpage/main.js"
+			],
+			[
+				"linkstyle",
+				"Linkpage/style.less"
+			],
+			[
+				"modelview",
+				"ModelViewer/index.js"
+			],
+			[
+				"boxes2sty",
+				"Boxes2/style.css"
+			],
+			[
+				"boxes2",
+				"Boxes2/style.less"
+			],
+			[
+				"musicstyle",
+				"MusicMaking/style.css"
+			],
+			[
+				"gameofst",
+				"GameOfLife/style.css"
+			],
+			[
+				"linkst",
+				"Linkpage/style.less"
+			],
+			[
+				"webglindex",
+				"WebGL/Shaders/index.php"
+			],
+			[
+				"index",
+				"Kandidat/presentation/index.php"
+			],
+			[
+				"index.",
+				"Boxes2/index.php"
+			],
+			[
+				"ludwi",
+				"ludwig/index.js"
+			],
+			[
+				"prefixr",
+				"Less-watch/prefixr.js"
+			],
+			[
+				"musiindex",
+				"MusicMaking/index.html"
+			],
+			[
+				"musicmain",
+				"MusicMaking/main.js"
+			],
+			[
+				"linkpinde",
+				"Linkpage/index.html"
+			],
+			[
+				"musicmainde",
+				"MusicMaking/index.html"
+			],
+			[
+				"gameofs",
+				"GameOfLife/style.css"
+			],
+			[
+				"musicjs",
+				"MusicMaking/main.js"
+			],
+			[
+				"musicmakst",
+				"MusicMaking/style.css"
+			],
+			[
+				"onskeinde",
+				"Onskelistor/index.php"
+			],
+			[
+				"linksty",
+				"Linkpage/style.less"
+			],
+			[
+				"linkinde",
+				"Linkpage/index.html"
+			],
+			[
+				"prfx",
+				"Less-watch/prefixr.js"
+			],
+			[
+				"shaderswe",
+				"WebGL/Shaders/effect_webcam_cube.js"
+			],
+			[
+				"touchshoomserv",
+				"TouchShroom/server/server.js"
+			],
+			[
+				"linkbump",
+				"Linkpage/bump.css"
+			],
+			[
+				"lesinde",
+				"Less-watch/index.js"
+			],
+			[
+				"packa",
+				"Less-watch/package.json"
+			],
+			[
+				"lessread",
+				"Less-watch/README.md"
+			],
+			[
+				"jquery",
+				"javascript/jquery-1.8.3.js"
+			],
+			[
+				"linkhtml",
+				"Linkpage/index.html"
+			],
+			[
+				"hequer",
+				"DOM/src/HeQuery.js"
+			],
+			[
+				"linkindeh",
+				"Linkpage/index.html"
+			],
+			[
+				"lessinde",
+				"Less-watch/index.js"
+			],
+			[
+				"musicmakmain",
+				"MusicMaking/main.js"
+			],
+			[
+				"boxes2ind",
+				"Boxes2/index.js"
+			],
+			[
+				"musicmakind",
+				"MusicMaking/index.html"
+			],
+			[
+				"jquer",
+				"javascript/jquery-1.8.3.js"
+			],
+			[
+				"hequ",
+				"DOM/src/HeQuery.js"
+			],
+			[
+				"boxesless",
+				"Boxes/style.less"
+			],
+			[
+				"boxesind",
+				"Boxes/index.js"
+			],
+			[
+				"gamemain",
+				"GameOfLife/main.js"
+			],
+			[
+				"gameofmain",
+				"GameOfLife/main.js"
+			],
+			[
+				"sequenceind",
+				"Sequencer/index.html"
+			],
+			[
+				"heloldle",
+				"HelenGsonWallin/style_old.less"
+			],
+			[
+				"heleold",
+				"HelenGsonWallin/index_old.html"
+			],
+			[
+				"helecss",
+				"HelenGsonWallin/style.css"
+			],
+			[
+				"onske",
+				"Onskelistor/common.css"
+			],
+			[
+				"boxesstyl",
+				"Boxes/style.less"
+			],
+			[
+				"helen",
+				"HelenGsonWallin/index.html"
+			],
+			[
+				"onskeliscss",
+				"Onskelistor/common.css"
+			],
+			[
+				"boxesles",
+				"Boxes/style.less"
+			],
+			[
+				".html",
+				"reveal.js-template/index.html"
+			],
+			[
+				"boxesinde",
+				"Boxes/index.php"
+			],
+			[
+				"uti",
+				"javascript/util.js"
+			],
+			[
+				"heqy",
+				"DOM/src/HeQuery.js"
+			],
+			[
+				"touchgame",
+				"TouchShroom/js/game.js"
+			],
+			[
+				"helless",
+				"HelenGsonWallin/style.less"
+			],
+			[
+				"heleninde",
+				"HelenGsonWallin/index.html"
+			],
+			[
+				"helstycss",
+				"HelenGsonWallin/style.css"
+			],
+			[
+				".js",
+				"HelenGsonWallin/main.js"
+			],
+			[
+				"helenless",
+				"HelenGsonWallin/style.less"
+			],
+			[
+				"helencss",
+				"HelenGsonWallin/style.css"
+			],
+			[
+				"game",
+				"kandidat/js/game.js"
+			],
+			[
+				"simplefra",
+				"kandidat/shaders/shader_simple.frag"
+			],
+			[
+				"meas",
+				"kandidat/js/measure.js"
+			],
+			[
+				"camer",
+				"javascript/camera.js"
+			],
+			[
+				"gl-mt",
+				"javascript/gl-matrix.js"
+			],
+			[
+				"shadsimple",
+				"kandidat/shaders/shader_simple.vert"
+			],
+			[
+				"shadesimp",
+				"kandidat/shaders/shader_simple.frag"
+			],
+			[
+				"load",
+				"javascript/loader.js"
+			],
+			[
+				"conte",
+				"kandidat/js/content.js"
+			],
+			[
+				"tech",
+				"kandidat/js/technique.js"
+			],
+			[
+				"kandut",
+				"kandidat/js/util.js"
+			],
+			[
+				"kandiwebg",
+				"kandidat/js/webgl.js"
+			],
+			[
+				"audiind",
+				"audio/index.html"
+			],
+			[
+				"audio",
+				"audio/index.html"
+			],
+			[
+				"javacame",
+				"javascript/camera.js"
+			],
+			[
+				"webg",
+				"javascript/webgl.js"
+			],
+			[
+				"floatindex",
+				"floating/index.js"
+			],
+			[
+				"javalig",
+				"javascript/light.js"
+			],
+			[
+				"jav",
+				"javascript/util.js"
+			],
+			[
+				"javuti",
+				"javascript/util.js"
+			],
+			[
+				"shadeuti",
+				"webgl/Shaders/util.js"
+			],
+			[
+				"shadercamer",
+				"webgl/Shaders/Camera.js"
+			],
+			[
+				"shroom",
+				"webgl/shroom/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Hektor/Dropbox/Webb/Newminds/newminds.sublime-project"
+			],
+			[
+				"hele",
+				"/C/Users/Hektor/Dropbox/Webb/HelenGsonWallin/helengsonwallin.sublime-project"
+			],
+			[
+				"regex",
+				"/C/Users/Hektor/Dropbox/Webb/Regex/regex.sublime-project"
+			],
+			[
+				"less",
+				"/C/Users/Hektor/Dropbox/Webb/Less-watch/less-flow.sublime-project"
+			],
+			[
+				"race",
+				"/C/Users/Hektor/Dropbox/Webb/Racetrack/racetrack.sublime-project"
+			],
+			[
+				"tou",
+				"/C/Users/Hektor/Dropbox/Webb/TouchShroom/touchshroom.sublime-project"
+			],
+			[
+				"dom",
+				"/C/Users/Hektor/Dropbox/Webb/DOM/DOM.sublime-project"
+			],
+			[
+				"touch",
+				"/C/Users/Hektor/Dropbox/Webb/TouchShroom/touchshroom.sublime-project"
+			],
+			[
+				"kan",
+				"/C/Users/Hektor/Dropbox/Webb/kandidat/kandidat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}

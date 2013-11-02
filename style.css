@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+body {
+  background-color: #E6E6E6;
+  /*background-image: url(/res/subtlebackgrounds/diamond_upholstery.png);*/
+  background-image: url(/Hackathon/daft_3.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#info {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin: 0;
+  font-family: monospace;
+  font-size: 2.5em;
+}
+
+.loading {
+  margin-top: 5%;
+  margin-left: 5%;
+  text-align: left;
+  color: white;
+  text-shadow: 1px 1px black;
+  font-family: monospace;
+  font-size: 3em;
+}
+
+.loading img {
+  display: inline-block;
+  width: 200px;
+  border-radius: 50%;
+  margin: 10px;
+  margin-top: 170px;
+}
+
+.slice {
+  background-color: indigo;
+  display: inline-block;
+  width: 50px;
+  height: 30px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.slice.active {
+  background-color: green;
+}
