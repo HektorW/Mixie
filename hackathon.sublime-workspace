@@ -4,6 +4,98 @@
 		"selected_items":
 		[
 			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"modify",
+				"modify_playback_rate"
+			],
+			[
+				"vecD",
+				"vecDistanceSq(x1, y1, x2, y2)	main.js"
+			],
+			[
+				"buffer",
+				"buffer_source"
+			],
+			[
+				"audio_",
+				"audio_ctx"
+			],
+			[
+				"preview",
+				"preview_timeout_id"
+			],
+			[
+				"previw",
+				"preview_timeout_id"
+			],
+			[
+				"hovered",
+				"hovered_slice"
+			],
+			[
+				"stop",
+				"stopHover()	main.js"
+			],
+			[
+				"loadSo",
+				"loadSong(song)	main.js"
+			],
+			[
+				"buff",
+				"buffer_source"
+			],
+			[
+				"audio",
+				"audio_ctx"
+			],
+			[
+				"check",
+				"checkSoundTime()	main.js"
+			],
+			[
+				"selected",
+				"selected_blob"
+			],
+			[
+				"getSlice",
+				"getSliceFromMouse()	main.js"
+			],
+			[
+				"pointIn",
+				"pointInCircle(px, py, cx, cy, cr)	main.js"
+			],
+			[
+				"point",
+				"pointInsideBlob(x, y)	main.js"
+			],
+			[
+				"getSliceF",
+				"getSliceFromPoint(x, y)	main.js"
+			],
+			[
+				"getBl",
+				"getBlobFromPoint()	main.js"
+			],
+			[
+				"slice_off",
+				"slice_offset_x"
+			],
+			[
+				"slice_o",
+				"slice_offset_x"
+			],
+			[
 				"mo",
 				"mousedown"
 			],
@@ -38,10 +130,6 @@
 			[
 				"timeout",
 				"timeout_id"
-			],
-			[
-				"audio",
-				"audio"
 			],
 			[
 				"start",
@@ -104,10 +192,6 @@
 				"fe	foreach, fast - readable"
 			],
 			[
-				"margin-",
-				"margin-bottom"
-			],
-			[
 				"border-bo",
 				"border-bottom-color"
 			],
@@ -154,10 +238,6 @@
 			[
 				"font-",
 				"font-family"
-			],
-			[
-				"font",
-				"font-color"
 			],
 			[
 				"txt",
@@ -294,10 +374,6 @@
 			[
 				"inlin",
 				"inline-block"
-			],
-			[
-				"background-",
-				"background-color"
 			],
 			[
 				"cur",
@@ -438,82 +514,6 @@
 			[
 				"rot",
 				"rotation_speed"
-			],
-			[
-				"afte",
-				"after_time"
-			],
-			[
-				"cans",
-				"canvas"
-			],
-			[
-				"clear",
-				"clearColor"
-			],
-			[
-				"event",
-				"eventListener"
-			],
-			[
-				"canva",
-				"canvas"
-			],
-			[
-				"even",
-				"eventListener"
-			],
-			[
-				"canvas",
-				"canvas_id"
-			],
-			[
-				"reqe",
-				"requestAnimationFrame"
-			],
-			[
-				"f",
-				"fun	function …"
-			],
-			[
-				"ca",
-				"camera_types"
-			],
-			[
-				"load",
-				"loader"
-			],
-			[
-				"on",
-				"onChange"
-			],
-			[
-				"aut",
-				"auto_speed"
-			],
-			[
-				"light",
-				"lightFolder"
-			],
-			[
-				"curre",
-				"current_effect"
-			],
-			[
-				"simp",
-				"skybox_simpsons"
-			],
-			[
-				"te",
-				"tech_str"
-			],
-			[
-				"tech",
-				"techniques"
-			],
-			[
-				"fps_hist",
-				"fps_history_average"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 920,
+				"buffer_size": 929,
 				"line_ending": "Windows"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "main.js",
 			"settings":
 			{
-				"buffer_size": 9540,
+				"buffer_size": 25809,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 439,
+				"buffer_size": 913,
 				"line_ending": "Windows"
 			}
 		},
@@ -547,15 +547,7 @@
 			"file": "/C/Users/Hektor/Dropbox/Webb/echonest.md",
 			"settings":
 			{
-				"buffer_size": 144,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Hektor/Dropbox/Webb/MusicMaking/main.js",
-			"settings":
-			{
-				"buffer_size": 12493,
+				"buffer_size": 1272,
 				"line_ending": "Windows"
 			}
 		}
@@ -563,7 +555,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 210.0,
+		"height": 135.0,
 		"selected_items":
 		[
 			[
@@ -995,7 +987,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 498.0
+		"width": 450.0
 	},
 	"console":
 	{
@@ -1012,10 +1004,14 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Hektor/Dropbox/Webb/Hackathon/remix.js",
 		"/C/Users/Hektor/Dropbox/Webb/javascript/keyboard.js",
+		"/C/Users/Hektor/Dropbox/Webb/MusicMaking/main.js",
 		"/C/Users/Hektor/Dropbox/Webb/DOM/src/HeQuery.js",
 		"/C/Users/Hektor/Dropbox/Webb/DOM/src/HeQuery.css",
+		"/C/Users/Hektor/Dropbox/Webb/TouchShroom/js/game.js",
+		"/C/Users/Hektor/Dropbox/Webb/javascript/util.js",
+		"/C/Users/Hektor/Dropbox/Webb/Hackathon/hackathon.sublime-project",
+		"/C/Users/Hektor/Dropbox/Webb/Hackathon/remix.js",
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/test/all.js",
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/src/main.js",
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/.jshintrc",
@@ -1037,7 +1033,6 @@
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/Gruntfile.js",
 		"/C/Users/Hektor/Dropbox/Webb/javascript/loader.js",
 		"/C/Users/Hektor/Dropbox/Webb/javascript/model.js",
-		"/C/Users/Hektor/Dropbox/Webb/javascript/util.js",
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/src/_intro.js",
 		"/C/Users/Hektor/Dropbox/Webb/ObjLoader/.editorconfig",
 		"/C/Users/Hektor/Dropbox/Webb/javascript/jquery-1.8.3.js",
@@ -1136,10 +1131,7 @@
 		"/C/Users/Hektor/Dropbox/Webb/menu.dust",
 		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/template.dust",
 		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/compiled.dust.js",
-		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/menu_screen.dust",
-		"/C/Users/Hektor/Dropbox/Webb/Lab/Dust/compiler.js",
-		"/C/Users/Hektor/Dropbox/Webb/javascript/underscore.js",
-		"/C/Users/Hektor/Dropbox/Webb/Dust/template.dust"
+		"/C/Users/Hektor/Dropbox/Webb/Lab/Backbone/menu_screen.dust"
 	],
 	"find":
 	{
@@ -1160,6 +1152,80 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"global_",
+			"switch",
+			"calcu",
+			"calcut",
+			"draw = ",
+			"draw:",
+			"draw =",
+			"type = ",
+			"this.r",
+			"this",
+			"tmpCtx",
+			"setTimeout",
+			"x",
+			";\n",
+			"type = ",
+			"getBlobCen",
+			"mousedown",
+			"Hackathon",
+			"100",
+			"300",
+			"2",
+			"1",
+			"x1",
+			"time_multiplier",
+			"#info",
+			".css",
+			"requestDraw",
+			"checkHo",
+			"stop",
+			"stopHover",
+			"t",
+			"if(this.song",
+			"APP",
+			"play",
+			"x",
+			"mousemove",
+			"255",
+			"Math.min(",
+			"this.",
+			"parseInt(255 - (index*(255/APP.max_slices)),10)",
+			"create",
+			"analyze_data",
+			"buffer",
+			"url",
+			",",
+			"? ",
+			"b.",
+			"draw:",
+			"468966",
+			"p_slice",
+			"slice",
+			"first",
+			",",
+			"draw",
+			"line_",
+			"x",
+			"ctx",
+			"state",
+			".w",
+			"c",
+			"p",
+			"pointinc",
+			"pointinC",
+			"pointin",
+			"this.h",
+			"h",
+			"arc",
+			"'",
+			"slice",
+			".",
+			"this.mouse",
+			"x",
+			"default",
+			"update",
 			"x",
 			"down",
 			"roundedRectFill",
@@ -1213,81 +1279,7 @@
 			"&",
 			"class=\"page",
 			"header",
-			"logo",
-			"logo_height",
-			".",
-			"accessbars",
-			".",
-			"</section>",
-			"0",
-			"E",
-			"/HelenGsonWallin/res/",
-			"span",
-			"song",
-			"rev",
-			"reverse",
-			"s",
-			"songindex",
-			"hover",
-			"2",
-			"CustomizeScreen",
-			"scren",
-			"screen = ",
-			"customize",
-			"connect",
-			"// this.",
-			"(this.",
-			"destination",
-			"screen",
-			"// destination",
-			"Classy",
-			",",
-			"setPlayerElementColor",
-			"color",
-			"green",
-			"gren",
-			"screen",
-			".attr",
-			"type",
-			"ue,",
-			"target.value",
-			"his.",
-			"Change:",
-			"Change",
-			"this.screen",
-			"displayPlayerElement",
-			"destination =",
-			"this.s",
-			"case",
-			"this.screen",
-			"this.sreen",
-			"connect",
-			"self",
-			"this",
-			"handler",
-			"Lobby",
-			"screen",
-			"get",
-			"et()",
-			"menu",
-			"Customize",
-			"00",
-			"10",
-			"textChange",
-			"remove",
-			"g3",
-			"div",
-			"this",
-			"start",
-			"menu",
-			"swap",
-			"bind",
-			"name",
-			"onhash",
-			"id",
-			"p",
-			"P",
-			"p"
+			"logo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1341,15 +1333,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 920,
+						"buffer_size": 929,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								702,
-								702
+								671,
+								671
 							]
 						],
 						"settings":
@@ -1502,15 +1494,15 @@
 					"file": "main.js",
 					"settings":
 					{
-						"buffer_size": 9540,
+						"buffer_size": 25809,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3259,
-								3259
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1653,7 +1645,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1564.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1663,15 +1655,15 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 439,
+						"buffer_size": 913,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								260,
-								260
+								727,
+								727
 							]
 						],
 						"settings":
@@ -1809,10 +1801,12 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 58.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1822,15 +1816,15 @@
 					"file": "/C/Users/Hektor/Dropbox/Webb/echonest.md",
 					"settings":
 					{
-						"buffer_size": 144,
+						"buffer_size": 1272,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								31
+								1272,
+								1272
 							]
 						],
 						"settings":
@@ -1968,171 +1962,12 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Hektor/Dropbox/Webb/MusicMaking/main.js",
-					"settings":
-					{
-						"buffer_size": 12493,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9233,
-								8769
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5072.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -2709,6 +2544,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"webb",
+				"/C/Users/Hektor/Dropbox/Webb/webb.sublime-project"
+			],
 			[
 				"",
 				"/C/Users/Hektor/Dropbox/Webb/Newminds/newminds.sublime-project"

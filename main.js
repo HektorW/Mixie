@@ -20,7 +20,7 @@ var APP = {
 
   modify_playback_rate: false,
 
-  global_multiplier: 0.8,
+  global_multiplier: 1.0,
 
   songs: [
   // {
@@ -214,7 +214,7 @@ var APP = {
     });
     this.loadSound(song.url, function(buffer) {
       song.buffer = buffer;
-      console.log('Buffer: ' + song.artist);
+      console.log('Buffer: ' + song.artist + ' - ' + song.title);
       if(song.analyze_data) {
         $('.loading').css('display', 'none');
         $(APP.canvas).css('display', 'block');
@@ -242,12 +242,18 @@ var APP = {
         q: "select * from json where url=\"" + analysisURL + "\"",
         format: "json"
       }, function(data) {
-        APP.analyzeDataReceived(data.query.results.json, fn);
+        console.log(data);
+        if(!data.query.results){
+          APP.info('Something went terribly wrong. No result from echonest :(')
+        }
+        else {
+          APP.analyzeDataReceived(data.query.results.json, fn);
+        }
     });
   },
 
   analyzeDataReceived: function(data, fn) {
-    console.log(data);
+    // console.log(data);
     this.info('Analyze data received');
 
     // $('.loading').css('display', 'none');
@@ -781,7 +787,7 @@ Slice.prototype.checkSoundTime = function() {
 
   this.calculateMultiplier();
 
-  $('#info').text((APP.audio_ctx.currentTime - this.start_play) + ' / ' + this.played_time + ' / ' + this.duration);
+  // $('#info').text((APP.audio_ctx.currentTime - this.start_play) + ' / ' + this.played_time + ' / ' + this.duration);
   if(this.played_time >= this.duration) {
     this.stop();
   }
